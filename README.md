@@ -1,2 +1,2 @@
 # DAA-Lab
-This repository is for practical files of design and analysis of algorithms lab (PCS-505).
+This repository is for labs, assignments and tutorials of design and analysis of algorithms subject.
